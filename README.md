@@ -23,7 +23,8 @@ Levantar servidor:
 ```bash
 npm run dev
 ```
-##Checa la demo 
+
+## Checa la demo 
 
 ```bash
 https://penteon-challenge-o9za8l8xx-densergons-projects.vercel.app/
